@@ -10,7 +10,7 @@ Each question is worth 0.5 points. Total: 10 points
         B) A web server<br>
         **C) A container platform for creating and managing environments**<br>
         D) A frontend framework<br>
-<br>
+        
   2. Which command builds a Docker image from a Dockerfile?<br>
         A) docker pull<br>
         **B) docker build** <br>
@@ -28,15 +28,15 @@ Each question is worth 0.5 points. Total: 10 points
         B) List images<br>
         **C) Show running containers** <br>
         D) Stop all containers<br>
-<br>
+        
 🌿 Git / GitHub<br>
-<br>
+
   5. What does git clone do?<br>
         A) Create a new repository<br>
         **B) Download a copy of a remote repository**<br>
         C) Delete a local repo<br>
         D) Update a remote repo<br>
-<br>
+
   6.  What is a “commit” in Git?<br>
         A) Send files to GitHub<br>
         B) Merge two branches<br>
@@ -48,21 +48,21 @@ Each question is worth 0.5 points. Total: 10 points
         B) git pull<br>
         C) git add<br>
         D) git commit<br>
-<br>
+
   8.  What is the purpose of a .gitignore file?<br>
         A) Ignore repositories<br>
        **B) Ignore files/folders from being committed**<br>
         C) Protect branches<br>
         D) Manage GitHub access<br>
-<br>
+
 ⚙️ .NET Core<br>
-<br>
+
   9.  Which command creates a new Web API project in .NET Core?<br>
         A) dotnet build api<br>
         **B) dotnet new webapi**<br>
         C) dotnet run api<br>
         D) dotnet create api<br>
-<br>
+
   10.  Which file configures services and middleware in .NET Core?<br>
     **A) Startup.cs**<br>
     B) Program.cs<br>
@@ -74,15 +74,15 @@ Each question is worth 0.5 points. Total: 10 points
     **B) Microsoft.AspNetCore.Cors**<br>
     C) Microsoft.AspNetCore.Mvc.NewtonsoftJson<br>
     D) System.Net.Http<br>
-<br>
+
   12. What does the [HttpGet] attribute do in a Controller?<br>
     A) Send data<br>
     B) Update a resource<br>
     **C) Handle a GET request**<br>
     D) Delete data<br>
-<br>
+
 ⚛️ Frontend Frameworks<br>
-<br>
+
   13. In Angular, what is a component?<br>
     A) An external module<br>
     B) A backend service<br>
@@ -94,13 +94,13 @@ Each question is worth 0.5 points. Total: 10 points
     **B) A hook to manage state**<br>
     C) A hook for API requests<br>
     D) A type of props<br>
-<br>
+
    15. What does VueJS use to loop through items?<br>
     A) *each<br>
     **B) v-for**<br>
     C) loop<br>
     D) ng-for<br>
-<br>
+
   16. In Svelte, how do you declare a reactive variable?<br>
     A) @reactive<br>
     B) this.reactive<br>
@@ -114,7 +114,7 @@ Each question is worth 0.5 points. Total: 10 points
     B) A security pattern<br>
     **C) Create, Read, Update, Delete**<br>
     D) A REST API format<br>
-<br>
+
   18. How do you install dependencies in Angular?<br>
     A) ng add<br>
     B) ng install<br>
