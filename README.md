@@ -5,29 +5,29 @@
 Each question is worth 0.5 points. Total: 10 points
 🐳 Docker
 
-  1. What is Docker?
-        A) A relational database
-        B) A web server
-        **C) A container platform for creating and managing environments**
-        D) A frontend framework
+  1. What is Docker?<br>
+        A) A relational database<br>
+        B) A web server<br>
+        **C) A container platform for creating and managing environments**<br>
+        D) A frontend framework<br>
+<br>
+  2. Which command builds a Docker image from a Dockerfile?<br>
+        A) docker pull<br>
+        **B) docker build**<br>
+        C) docker start<br>
+        D) docker run<br>
 
-  2. Which command builds a Docker image from a Dockerfile?
-        A) docker pull
-        **B) docker build**
-        C) docker start
-        D) docker run
+   3. What is docker-compose used for?<br>
+        A) Compressing files<br>
+        B) Creating multiple Docker images<br>
+       **C) Orchestrating multiple containers**<br>
+        D) Backing up volumes<br>
 
-   3. What is docker-compose used for?
-        A) Compressing files
-        B) Creating multiple Docker images
-       "C) Orchestrating multiple containers"
-        D) Backing up volumes
-
-  4. What does the command docker ps do?
-        A) Create containers
-        B) List images
-        **C) Show running containers**
-        D) Stop all containers
+  4. What does the command docker ps do?<br>
+        A) Create containers<br>
+        B) List images<br>
+        **C) Show running containers**<br>
+        D) Stop all containers<br>
 
 🌿 Git / GitHub
 
